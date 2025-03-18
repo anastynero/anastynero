@@ -1,10 +1,12 @@
 <div id="header" align="center">
   <h2>Hey there, I'm Nastya</h2>
-  <hr>
+  <a href="your-linkedin-URL">
+    <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000"/>
+  </a>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFuN2Fmb2g5N2pkN241MzRhbm5zYXlqdDBuMjJmYWQzZ3BlemM3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="300"/>
 </div>
-<div align="center">
-  <h2>About me:</h2>
+<div>
+  <h2 align="center" >About me:</h2>
   <ul>
     <li>I'm a passionate frontend developer diving deep into the React ecosystem.</li>
     <li>I have a strong foundation in JavaScript, HTML, and CSS and love building responsive, user-friendly web applications.</li>
@@ -23,9 +25,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-<div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000"/>
-  </a>
 </div>

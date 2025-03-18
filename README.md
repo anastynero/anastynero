@@ -1,8 +1,5 @@
 <div id="header" align="center">
   <h2>Hey there, I'm Nastya</h2>
-  <a href="your-linkedin-URL">
-    <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000"/>
-  </a>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFuN2Fmb2g5N2pkN241MzRhbm5zYXlqdDBuMjJmYWQzZ3BlemM3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="300"/>
 </div>
 <div>
@@ -12,6 +9,9 @@
     <li>I have a strong foundation in JavaScript, HTML, and CSS and love building responsive, user-friendly web applications.</li>
     <li>Currently, I'm expanding my skills in Next.js, TypeScript, and API integrations.</li>
     <li>I'm open to collaboration on interesting projects and always eager to learn new technologies.</li>
+    <a href="your-linkedin-URL">
+    <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" width="50"/>
+  </a>
   </ul>
 </div>
 <div align="center">

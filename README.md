@@ -1,9 +1,11 @@
 <div id="header" align="center">
-  Hey there, I'm Nastya
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFuN2Fmb2g5N2pkN241MzRhbm5zYXlqdDBuMjJmYWQzZ3BlemM3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="200"/>
+  <b>Hey there, I'm Nastya</b>
+  <hr>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFuN2Fmb2g5N2pkN241MzRhbm5zYXlqdDBuMjJmYWQzZ3BlemM3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="300"/>
 </div>
 <div>
-  Languages and Tools:
+  <b>Languages and Tools:</b>
+  <hr>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
